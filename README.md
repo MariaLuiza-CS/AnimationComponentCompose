@@ -10,7 +10,7 @@ As users become increasingly accustomed to fluid animations and intuitive intera
 
 So let's learn how we can develop that! ❤
 
-Check out my [post on Medium here](https://medium.com/@MariaLuiza-CS/splash-screen-api-with-jetpack-compose-9001c561b9c8) to see how to implement and use that.
+Check out my [post on Medium here](https://medium.com/@MariaLuiza-CS/animation-component-with-compose-5bc962c94c39) to see how to implement and use that.
 
 </br>
 
